@@ -1,0 +1,14 @@
+benchmark start : 2021/10/13 15:49:21
+system_configs
+
+uname_result(system='Linux', node='43510.example.com', release='5.8.10-acso', version='#1 SMP Thu Sep 17 12:12:01 UTC 2020', machine='x86_64', processor='x86_64')
+                     scpufreq(current=3314.8747187500003, min=2200.0, max=3400.0)
+                    cpu_count: 32
+                    memory_available: 16177737728
+gpu_configs
+
+Number of GPUs on current device : 1
+CUDA Version : 11.1
+Cudnn Version : 8005
+Device Name : NVIDIA RTX A6000
+benchmark end : 2021/10/13 16:30:39
